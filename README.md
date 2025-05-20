@@ -1,4 +1,4 @@
-# <div align='center'>Baileys - Typescript/Javascript WhatsApp Web API</div>
+# <div align='center'>Next-Baileys - Typescript/Javascript WhatsApp Web API</div>
 
 <div align="center"><img src="https://a.top4top.io/p_3427tupq10.jpg"></div>
 
