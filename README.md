@@ -11,12 +11,12 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:novaria-md/next-baileys"
+    "baileys": "github:rans-beep/xrans-baileys"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:novaria-md/next-baileys
+npm install baileys@github:rans-beep/xrans-baileys
 ```
 
 Then import the default function in your code:
